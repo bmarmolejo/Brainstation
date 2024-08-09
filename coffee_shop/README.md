@@ -1,10 +1,5 @@
 # ☕ Coffee Shop ☕
 
-<p align="center">
-    <br />
-    <a href="https://">View Demo</a>
-</p>
-
 **Coffee Shop** is a multi-page website designed for a new local café. The site consists of two primary sections: a Landing Page and a Menu. The Landing Page serves as the homepage, offering visitors essential information about the café. The Menu page delves deeper into the coffee shop's offerings, showcasing the variety of drinks and pastries available.
 
 **Landing Page**
