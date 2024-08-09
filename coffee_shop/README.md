@@ -3,10 +3,10 @@
 **Coffee Shop** is a multi-page website designed for a new local café. The site consists of two primary sections: a Landing Page and a Menu. The Landing Page serves as the homepage, offering visitors essential information about the café. The Menu page delves deeper into the coffee shop's offerings, showcasing the variety of drinks and pastries available.
 
 **Landing Page**
-![Nitro Coffee Home](./coffee_shop/assets/images/home.png)
+![Nitro Coffee Home](./assets/images/home.png)
 
 **Menu Page**
-![Nitro Coffee Menu](./coffee_shop/assets/images/menu.png)
+![Nitro Coffee Menu](./assets/images/menu.png)
 
 
 ## Table of Contents
